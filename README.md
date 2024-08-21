@@ -17,7 +17,7 @@ I'm always excited to work on projects that span the full development lifecycle.
 - **My Cats Adventures:** Game inspired in the adventures of my cats, currently in development
 
 ## 📊 GitHub Stats
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kmikzjh&show_icons=true)
 
 ## 💬 Get In Touch
 - [LinkedIn](https://www.linkedin.com/in/jonathan-hernandez-318b0224/)
