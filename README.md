@@ -1,6 +1,6 @@
 # Hi there! I'm Jonathan Hernandez 👋
 
-I'm a Senior Full Stack Developer with a deep passion for creating end-to-end applications. 
+Senior Full Stack Developer with a deep passion for creating end-to-end applications. 
 From designing intuitive user interfaces to implementing robust backend systems, I enjoy the challenge of bringing complete solutions to life. 
 Whether it's working on front-end frameworks like React or Angular, building scalable APIs with Node.js, or deploying services on cloud platforms, 
 I'm always excited to work on projects that span the full development lifecycle.
