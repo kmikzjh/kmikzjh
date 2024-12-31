@@ -20,6 +20,6 @@ I'm always excited to work on projects that span the full development lifecycle.
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kmikzjh&show_icons=true)
 
 ## 💬 Get In Touch
-- [LinkedIn](https://www.linkedin.com/in/jonathan-hernandez-318b0224/)
+- [LinkedIn](https://www.linkedin.com/in/jonathan-hernandez-leal/)
 
 Thanks for visiting my profile! Feel free to reach out if you'd like to collaborate on a project or just want to chat about tech. 😊
